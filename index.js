@@ -1,6 +1,6 @@
 // add solution here
 
-function theBeatlesPlay(){
-  Array musicians = []
-  Array instruments = []
+function theBeatlesPlay(musicians, instruments){
+  console.log("${musicians} play the ${instruments")
+  
 }
